@@ -1,0 +1,680 @@
+[
+  {
+    "id": 1,
+    "title": "Тест 1",
+    "test_content": [
+      {
+        "id": 1,
+        "question": "Сколько зубов у капибары?",
+        "answers": [
+          {
+            "answer": "24",
+            "type": "False"
+          },
+          {
+            "answer": "32",
+            "type": "False"
+          },
+          {
+            "answer": "16",
+            "type": "False"
+          },
+          {
+            "answer": "20",
+            "type": "True"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "В какой стране капибары НЕ обитают?",
+        "answers": [
+          {
+            "answer": "Аргентина",
+            "type": "False"
+          },
+          {
+            "answer": "Перу",
+            "type": "False"
+          },
+          {
+            "answer": "Куба",
+            "type": "True"
+          },
+          {
+            "answer": "Бразилия",
+            "type": "False"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Какого веса в килограммах может достигать самец капибары?",
+        "answers": [
+          {
+            "answer": "63",
+            "type": "True"
+          },
+          {
+            "answer": "55",
+            "type": "False"
+          },
+          {
+            "answer": "58",
+            "type": "False"
+          },
+          {
+            "answer": "72",
+            "type": "False"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Сколько метров в длину может достигать тело взрослой капибары?",
+        "answers": [
+          {
+            "answer": "2.00",
+            "type": "False"
+          },
+          {
+            "answer": "1.35",
+            "type": "True"
+          },
+          {
+            "answer": "1.65",
+            "type": "False"
+          },
+          {
+            "answer": "1.40",
+            "type": "False"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Сколько часов в день капибары проводят в воде?",
+        "answers": [
+          {
+            "answer": "12",
+            "type": "True"
+          },
+          {
+            "answer": "8",
+            "type": "False"
+          },
+          {
+            "answer": "6",
+            "type": "False"
+          },
+          {
+            "answer": "16",
+            "type": "False"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "При каких температурных показателях капибарам находится противопоказано?",
+        "answers": [
+          {
+            "answer": "ниже 12",
+            "type": "False"
+          },
+          {
+            "answer": "ниже 22",
+            "type": "False"
+          },
+          {
+            "answer": "ниже 16",
+            "type": "True"
+          },
+          {
+            "answer": "ниже 18",
+            "type": "False"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "На сколько минут капибары способны задерживать дыхание под водой?",
+        "answers": [
+          {
+            "answer": "5",
+            "type": "True"
+          },
+          {
+            "answer": "4",
+            "type": "False"
+          },
+          {
+            "answer": "6.5",
+            "type": "False"
+          },
+          {
+            "answer": "7",
+            "type": "False"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Сколько еды относительно своего веса капибары могут съедать каждый день?",
+        "answers": [
+          {
+            "answer": "40%",
+            "type": "False"
+          },
+          {
+            "answer": "65%",
+            "type": "False"
+          },
+          {
+            "answer": "50%",
+            "type": "False"
+          },
+          {
+            "answer": "70%",
+            "type": "True"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "question": "Национальный банк какой страны выпустил монеты с изображением капибар?",
+        "answers": [
+          {
+            "answer": "Уругвай",
+            "type": "True"
+          },
+          {
+            "answer": "Венесуэла",
+            "type": "False"
+          },
+          {
+            "answer": "Бразилия",
+            "type": "False"
+          },
+          {
+            "answer": "Парагвай",
+            "type": "False"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "question": "Выберете верное высказываение:",
+        "answers": [
+          {
+            "answer": "Капибары не потеют",
+            "type": "True"
+          },
+          {
+            "answer": "Под водой капибары способны задерживать дыхание на 6 минут",
+            "type": "False"
+          },
+          {
+            "answer": "Капибары иногда употребляют мясо",
+            "type": "False"
+          },
+          {
+            "answer": "Капибара является вторым по величине грызуном на планете земля",
+            "type": "False"
+          }
+        ]
+      }
+    ]
+  },
+  {
+  "id": 2,
+  "title": "Тест 2",
+  "test_content": [
+    {
+      "id": 1,
+      "question": "Какой размер группы капибар наиболее типичен?",
+      "answers": [
+        {
+          "answer": "5—10 особей",
+          "type": "False"
+        },
+        {
+          "answer": "10—20 особей",
+          "type": "True"
+        },
+        {
+          "answer": "20—30 особей",
+          "type": "False"
+        },
+        {
+          "answer": "Больше 30 особей",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Каким образом капибары обозначают свою территорию?",
+      "answers": [
+        {
+          "answer": "Оставляют следы на деревьях",
+          "type": "False"
+        },
+        {
+          "answer": "Помечают выделениями носовых и анальных желез",
+          "type": "True"
+        },
+        {
+          "answer": "Строят укрытия и норы",
+          "type": "False"
+        },
+        {
+          "answer": "Раскладывают листья в определенном порядке",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Какие звуки используют капибары для общения?",
+      "answers": [
+        {
+          "answer": "Пение",
+          "type": "False"
+        },
+        {
+          "answer": "Шепот",
+          "type": "False"
+        },
+        {
+          "answer": "Свист и щёлканье",
+          "type": "True"
+        },
+        {
+          "answer": "Жужжание",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Когда происходит большинство родов у капибар?",
+      "answers": [
+        {
+          "answer": "Апрель-май",
+          "type": "False"
+        },
+        {
+          "answer": "Июнь-июль",
+          "type": "False"
+        },
+        {
+          "answer": "Сентябрь-ноябрь",
+          "type": "True"
+        },
+        {
+          "answer": "Декабрь-январь",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Какой вес имеют новорожденные капибары?",
+      "answers": [
+        {
+          "answer": "Около 0.5 кг",
+          "type": "True"
+        },
+        {
+          "answer": "Около 1 кг",
+          "type": "False"
+        },
+        {
+          "answer": "Около 1.5 кг",
+          "type": "False"
+        },
+        {
+          "answer": "Около 2 кг",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Сколько часов в день капибары проводят в воде?",
+      "answers": [
+        {
+          "answer": "12",
+          "type": "True"
+        },
+        {
+          "answer": "8",
+          "type": "False"
+        },
+        {
+          "answer": "6",
+          "type": "False"
+        },
+        {
+          "answer": "16",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "В какой стране капибары НЕ обитают?",
+      "answers": [
+        {
+          "answer": "Аргентина",
+          "type": "False"
+        },
+        {
+          "answer": "Перу",
+          "type": "False"
+        },
+        {
+          "answer": "Куба",
+          "type": "True"
+        },
+        {
+          "answer": "Бразилия",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Какая длина тела взрослой капибары может достигать?",
+      "answers": [
+        {
+          "answer": "1—1,5 метра",
+          "type": "False"
+        },
+        {
+          "answer": "1,5—2 метра",
+          "type": "True"
+        },
+        {
+          "answer": "0,5—1 метра",
+          "type": "False"
+        },
+        {
+          "answer": "2—2,5 метра",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Какой окрас чаще всего у капибар?",
+      "answers": [
+        {
+          "answer": "Чёрный",
+          "type": "False"
+        },
+        {
+          "answer": "Белый",
+          "type": "False"
+        },
+        {
+          "answer": "Коричневый",
+          "type": "True"
+        },
+        {
+          "answer": "Зелёный",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Какой хвост у капибары?",
+      "answers": [
+        {
+          "answer": "Длинный и пушистый",
+          "type": "False"
+        },
+        {
+          "answer": "Короткий и рудиментарный",
+          "type": "True"
+        },
+        {
+          "answer": "Длинный и гибкий",
+          "type": "False"
+        },
+        {
+          "answer": "Отсутствует",
+          "type": "False"
+        }
+      ]
+    }
+  ]
+  },
+    {
+  "id": 3,
+  "title": "Тест 3",
+  "test_content": [
+    {
+      "id": 1,
+      "question": "Какой социальный статус имеют капибары в своих группах?",
+      "answers": [
+        {
+          "answer": "Подвластные",
+          "type": "False"
+        },
+        {
+          "answer": "Доминирующие",
+          "type": "True"
+        },
+        {
+          "answer": "Самостоятельные",
+          "type": "False"
+        },
+        {
+          "answer": "Отшельники",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Какой сезон является предпочтительным для спаривания у капибар?",
+      "answers": [
+        {
+          "answer": "Зима",
+          "type": "False"
+        },
+        {
+          "answer": "Лето",
+          "type": "False"
+        },
+        {
+          "answer": "Весна",
+          "type": "False"
+        },
+        {
+          "answer": "Начало дождливого сезона",
+          "type": "True"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Где обычно обитают капибары?",
+      "answers": [
+        {
+          "answer": "В саваннах",
+          "type": "False"
+        },
+        {
+          "answer": "В пустынях",
+          "type": "False"
+        },
+        {
+          "answer": "По берегам водоёмов",
+          "type": "True"
+        },
+        {
+          "answer": "В лесах соснового типа",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Какие зубы у капибары растут в течение всей её жизни?",
+      "answers": [
+        {
+          "answer": "Резцы",
+          "type": "True"
+        },
+        {
+          "answer": "Клыки",
+          "type": "False"
+        },
+        {
+          "answer": "Моляры",
+          "type": "False"
+        },
+        {
+          "answer": "Все зубы",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Как называется перепонка между пальцами капибары?",
+      "answers": [
+        {
+          "answer": "Перепонка",
+          "type": "False"
+        },
+        {
+          "answer": "Плавник",
+          "type": "False"
+        },
+        {
+          "answer": "Кожистая перепонка",
+          "type": "True"
+        },
+        {
+          "answer": "Мембрана",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "В каких странах встречается капибара?",
+      "answers": [
+        {
+          "answer": "Только в Бразилии",
+          "type": "False"
+        },
+        {
+          "answer": "Только в Аргентине",
+          "type": "False"
+        },
+        {
+          "answer": "В нескольких странах Южной Америки",
+          "type": "True"
+        },
+        {
+          "answer": "В Европе",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Какое научное название у капибары?",
+      "answers": [
+        {
+          "answer": "Hydrochoerus hydrochaeris",
+          "type": "True"
+        },
+        {
+          "answer": "Hydrochoerinae hydrochoerus",
+          "type": "False"
+        },
+        {
+          "answer": "Capybara gigantea",
+          "type": "False"
+        },
+        {
+          "answer": "Hydrochoerus capybara",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Какой основной компонент питания капибары?",
+      "answers": [
+        {
+          "answer": "Мясо",
+          "type": "False"
+        },
+        {
+          "answer": "Свежая трава и фрукты",
+          "type": "True"
+        },
+        {
+          "answer": "Зерно",
+          "type": "False"
+        },
+        {
+          "answer": "Рыба",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Какой элемент необходим для содержания капибары, кроме кормления?",
+      "answers": [
+        {
+          "answer": "Ветви деревьев для стачивания зубов",
+          "type": "True"
+        },
+        {
+          "answer": "Химические средства для очистки бассейна",
+          "type": "False"
+        },
+        {
+          "answer": "Железобетонный пол",
+          "type": "False"
+        },
+        {
+          "answer": "Холодный климат",
+          "type": "False"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Какова примерная стоимость капибары?",
+      "answers": [
+        {
+          "answer": "От 50 000 до 150 000 рублей",
+          "type": "False"
+        },
+        {
+          "answer": "От 150 000 до 300 000 рублей",
+          "type": "False"
+        },
+        {
+          "answer": "От 300 000 до 500 000 рублей",
+          "type": "False"
+        },
+        {
+          "answer": "От 150 000 до 1 000 000 рублей",
+          "type": "True"
+        }
+      ]
+    }
+  ]
+  }
+]

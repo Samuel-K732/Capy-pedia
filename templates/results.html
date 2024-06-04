@@ -1,0 +1,46 @@
+{% include "header.html" %}
+
+<header
+  class="masthead"
+  style="background-image: url('../static/assets/img/result-bg.jpg')">
+  <div class="container position-relative px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="page-heading">
+            <h1>Итоги</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<main class="mb-4">
+  <div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+      {% if score <= 3:%}
+        <div class="result">
+        <h2>Ваш счет: {{ score }}</h2>
+        <p>Пока капибара грызла кору дерева, вы, кажется, заснули. Возможно, стоит проснуться и повторить материал?</p>
+        </div>
+      {% elif 3 < score <= 6 %}
+        <div class="result">
+        <h2>Ваш счет: {{ score }}</h2>
+        <p>Ваши знания о капибарах, кажется, находятся на начальном уровне. Можно было бы узнать о них немного больше, чтобы стать настоящим капибар-экспертом!</p>
+        </div>
+      {% elif 6 < score <= 9 %}
+        <div class="result">
+        <h2>Ваш счет: {{ score }}</h2>
+        <p>Ваши знания о капибарах уже внушительны. Вы уверенно стоите на пути к становлению экспертом в этой области. Продолжайте в том же духе!</p>
+        </div>
+      {% elif score == 10 %}
+        <div class="result">
+        <h2>Ваш счет: {{ score }}</h2>
+        <p>Поздравляем! Вы знаете о капибарах настолько много, что они пригласили вас на свою следующую вечеринку поедать листья вместе!</p>
+        </div>
+      {% endif %}
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include "footer.html" %}

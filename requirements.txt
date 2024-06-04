@@ -1,0 +1,5 @@
+Bootstrap_Flask==2.2.0
+WTForms==3.0.1
+Flask_WTF==1.2.1
+Flask==2.3.2
+Werkzeug==3.0.0

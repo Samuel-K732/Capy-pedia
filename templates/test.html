@@ -1,0 +1,29 @@
+{% include "header.html" %}
+{% from 'bootstrap/form.html' import render_form %}
+
+<header
+  class="masthead"
+  style="background-image: url('../static/assets/img/test-bg.jpg')">
+  <div class="container position-relative px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="page-heading">
+          <h1>{{ test.title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<main class="mb-4">
+  <div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="my_form">
+          {{ render_form(form, novalidate=True) }}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include "footer.html" %}
